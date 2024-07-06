@@ -1,0 +1,3 @@
+[submodule "Jenkins"]
+	path = Jenkins
+	url = git@github.com:titaniper/Jenkins.git
