@@ -4,3 +4,6 @@
 [submodule "kubernetes"]
 	path = kubernetes
 	url = git@github.com:titaniper/kubernetes.git
+[submodule "jenkins"]
+	path = jenkins
+	url = git@github.com:titaniper/jenkins.git
