@@ -1,3 +1,6 @@
 [submodule "Jenkins"]
 	path = Jenkins
 	url = git@github.com:titaniper/Jenkins.git
+[submodule "Terraform"]
+	path = Terraform
+	url = git@github.com:titaniper/Terraform.git
