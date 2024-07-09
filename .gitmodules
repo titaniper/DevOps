@@ -1,0 +1,6 @@
+[submodule "terraform"]
+	path = terraform
+	url = git@github.com:titaniper/terraform.git
+[submodule "kubernetes"]
+	path = kubernetes
+	url = git@github.com:titaniper/kubernetes.git
